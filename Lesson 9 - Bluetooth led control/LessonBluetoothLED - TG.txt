@@ -1,0 +1,30 @@
+REFER TO MAIN CODE
+
+
+
+CODE:
+
+-Send different datas from your mobile app and see if datas are being received
+
+-Change the controllers as such
+ #Control led2 with L and R
+ #Control led3 with U and D
+ #Control led1 with S and T
+
+-Write a program to make the servo move to 0 to 180degrees when U is pressed
+-Add in your code that when D is pressed to servo goes back to 0 degrees
+
+SCHEMATIC:
+
+-Change the following from the circuit : 
+   #led2 and led3
+   #led1 and led3
+   #led1 and led2 
+-Build the circuit using no POWER and GND
+-Use minmum number of pins as required
+-Add a servo motor
+
+TOPLAN
+
+-Write the program from scratch
+-Build the whole ciruit

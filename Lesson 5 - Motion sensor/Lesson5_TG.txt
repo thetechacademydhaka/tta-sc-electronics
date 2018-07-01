@@ -1,0 +1,22 @@
+REFER TO MAIN CODE
+
+
+CODE:
+
+-Change the pin number of the sensor different pin
+-Write a program such that IF the motion sensor is active it serial prints "Intruder" and when not active it gives "NORMAL"
+-Write a program such that when motion is detected the led turns on.
+-Change the program such that the buzzer noise is half of the sound as before, as motion is detected
+(HINT : analogWrite())
+
+SCHEMATIC:
+
+-Add an led as shown in the figure and follow ***
+-Make the circuit using no GND
+-Make the circuit using no POWER
+-Try out the second code
+
+
+TOPLAN
+
+-Write code and make circuit from scratch

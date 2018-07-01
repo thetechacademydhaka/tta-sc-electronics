@@ -1,0 +1,24 @@
+REFER TO MAIN CODE
+
+
+CODE:
+
+-Decrease the potentimeter to a certain range
+-Write a program such that it prints 1 above a certain range of your choice and 0 below that range
+-Do the same but in this case print "ABOVE RANGE" and "BELOW RANGE"
+
+
+SCHEMATIC:
+
+-Change the pin of the potentiometer to a different pin
+-Change the led to a different pin
+-Setup a second led circuit
+-Make the program as such that one led increases its brightness when pot is turned an the other decreases 
+***HINT : Use reveresed map function in one led
+
+
+
+TOPLAN
+
+-Write code and make circuit from scratch
+-Add a second switch and led and do the on/off sequence for it 

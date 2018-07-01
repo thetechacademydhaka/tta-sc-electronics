@@ -1,0 +1,21 @@
+REFER TO THE MAIN CODE
+
+Code (temp_serial): 
+
+-Change the threshold of the temperature 
+-Change the analog pin to a different pin
+-Make the system print "HIGH TEMPERATURE" when it crosses the limit, and print "LOW TEMPERATURE" when it goes below the limit
+(Hint : use "" while giving input as text in serialprintln)
+-Do the above for differnt thresholds
+-See the code named fire_alarm_led_bar and build the circuit WITHOUT using a schematic
+-Check the pins in your schematic and in your program and then upload the code
+
+Schematic : 
+
+-Change the analog pin to A5 and make changes in your program
+-Use digital pins as power and ground
+
+TOPLAN
+
+-Write the program from scratch
+-Build the schematic

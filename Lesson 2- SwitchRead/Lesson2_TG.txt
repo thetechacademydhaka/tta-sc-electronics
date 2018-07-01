@@ -1,0 +1,25 @@
+REFER TO MAIN CODE
+
+
+CODE:
+
+
+-Set up the following circuit as shown
+-Run the program and press the switch
+-Put the switch wire to pin number 8 and see if any values are received
+-Make changes in the program to make it correct
+
+
+SCHEMATIC:
+
+-Make the circuit without using the 5v pin from arduino( digitalWrite HIGH)
+-Make the circuit without using gnd from arduino
+-Add an led and a resistor as done in previous lesson and connect the led pin to pin7 on arduino
+-Make the led turn on when the switch is pressed and off when not pressed
+-Make the led blink when the switch is pressed
+
+
+TOPLAN
+
+-Write code and make circuit from scratch
+-Add a second switch and led and do the on/off sequence for it 

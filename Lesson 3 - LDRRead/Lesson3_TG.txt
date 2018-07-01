@@ -1,0 +1,37 @@
+REFER TO MAIN CODE
+
+**serial.println(value);
+
+CODE 2:
+
+
+-Write a program such that as the ldr crosses 400 it prints 1 and below 400 it prints 0
+-Write a program as above, but make it print ABOVE LIMIT and BELOW LIMIT
+-Change the program to make the led go brighter as ldr value increases
+-Similarly, do the same as above but inverse
+-Change the brightness of the led using IF and ELSE statements
+-With the second led setted up, write a program to make one led increase its brightness an the other one decrease its brightness as ldr value changes
+
+
+Schematic :
+
+-Make changes in the circuit to take readings from a different pin
+-Change the led to a different pin and make it work
+-Make the circuit without using gnd from arduino
+-Setup a second led
+-Make the ciruit using least number of wires as possible
+
+
+
+
+TOPLAN
+
+
+Write the whole code and build the circuit from sratch
+
+
+
+
+
+
+

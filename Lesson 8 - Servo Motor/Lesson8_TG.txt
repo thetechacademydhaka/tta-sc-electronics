@@ -1,0 +1,26 @@
+REFER TO MAIN CODE
+
+
+CODE:
+
+-Make the servo's shaft go to its full angle 
+HINT : (180 is max)
+-Make it go half its full angle
+-Change the pin to another one of your choice and make it work
+HINT : IF NOT PWM WILL NOT WORK
+HINT : PWM Concepts ( wavy sign on digital pins)
+
+-Write a program such that when the distance sensor crosses 10 to 20cm led lights on,if not the led lights off**
+-Add to your current program that when the distance crosses the range the servo goes to its full angle, if not it goes to 0
+(HINT : use map function)
+
+
+SCHEMATIC:
+
+-Add an ultrasonic sensor
+-Setup and led circuit
+-Refer to challenge***
+
+TOPLAN
+
+-Write code and make circuit from scratch

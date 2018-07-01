@@ -1,0 +1,22 @@
+REFER TO Arduino to Processing folder
+
+
+CODE:
+
+-Send data from arduino to processing and make an object( rectangle) move
+-Write a program in arduino to serialprint the switch readings***
+-Make a system that when the button in arduino is pressed, the color of the rectangle changes from black to white
+-Make the sytem such that every time the switch is pressed, the color of the rectangle changes to different colors
+HINT : Rand function in processing
+
+
+SCHEMATIC:
+
+-Add a switch
+-Refer to challenge***
+
+TOPLAN
+
+
+
+-Write code and make circuit from scratch

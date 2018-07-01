@@ -1,0 +1,24 @@
+REFER TO MAIN CODE
+
+CODE:
+
+
+-Place and object 10cm away from the sensor, do the same for 20cm, 40cm, 50cm, 60cm
+-Change the program such that when the distance goes below a certain value of your choice, it prints "Obstacle nearby" and above it prints "No object in range"
+-Write a program such that when the distance goes below or above a certain range of your choice the led turns on and off**
+-Refer to the burglar alarm code
+-Change the program to make different combinations of leds when the range is crossed ***
+
+SCHEMATIC:
+
+-Set up the schematic as shown
+-Change the echo and trig pins to any other digital pins other then that given in the current program
+-Add an led to the circuit and refer to the challenge in ***
+-Setup the circuit for the burglar alarm by using the give code
+-Use minimum number of wires to complete the burglar alarm
+
+
+
+TOPLAN
+
+-Write code and make circuit from scratch

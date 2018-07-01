@@ -1,0 +1,41 @@
+REFER TO THE MAIN CODE
+
+
+Code : 
+
+-Make the led blink faster than before
+-Make the led blink slower than before 
+-Turn the led off
+-Turn the led on
+
+-Write a program to make a 
+   - red color
+   - blue color
+   - green color
+
+
+
+Schematic : 
+
+
+-Make changes in the arduino code to make the led blink. (Teacher changes circuit)
+-Add a third led in the circuit similar to the previous one 
+-Make the circuit using a single ground (bb concepts)
+-Make the circuit using the power bus terminal (bb concepts)
+-Make the circuit using no ground from arduino pins (digitalWrite 0 is gnd!!!)
+
+-Build the circuit of using an RGB light
+-Refer to ***
+-Change the color of the light from your circuit only with changing the code
+
+
+
+TOPLAN
+
+-Make the whole circuit 
+-Write the blink code from sratch
+-Make a combination of blinking leds
+
+
+***progression should be interesting, put gaps and use other elements to keep up the fun learning technique
+
