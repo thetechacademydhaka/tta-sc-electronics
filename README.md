@@ -18,3 +18,9 @@ Circuit schematic of the lesson.
 Coding exersizes.
 ### Teachers Guide
 Documententation for the instructor as what to deliver. Tasks that are to be given to students are added.
+
+### Author 
+
+
+* [Hasib Zunair](https://github.com/hasibzunair)
+
